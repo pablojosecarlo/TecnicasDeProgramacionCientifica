@@ -1,3 +1,8 @@
+
+#Me encanta github, he salvado de todo aqui adentro, hasta tengo un libro 
+Saludos!! Pablo Alonso Castillo.
+
+
 # HOgit
 Repositorio con ejercicios para practicar comandos básicos de git
 
