@@ -1,3 +1,5 @@
+#branch charlas
+Ahora estoy en otro rama. No me acostumbro al vi no sabía que el sunOS todavía existía
 
 #Me encanta github, he salvado de todo aqui adentro, hasta tengo un libro 
 Saludos!! Pablo Alonso Castillo.
