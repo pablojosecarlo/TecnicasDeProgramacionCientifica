@@ -1,3 +1,16 @@
+#Cierre del práctico
+
+Tuve problemas para setear como destino el git TecnicasDeProgramacionCientifica.git
+desde la consola de windos hice: 
+git remote set-url origin https://github.com/pablojosecarlo/TecnicasDeProgramacionCientifica.git
+y pude hacer los push del master y de los branchs sin problemas.
+En github aparecieron los pull request
+
+Saludos!!
+Pablo
+
+
+
 #branch charlas
 Ahora estoy en otro rama. No me acostumbro al vi no sabía que el sunOS todavía existía
 
