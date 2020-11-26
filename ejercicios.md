@@ -2,9 +2,9 @@
 
 Muy buenos los ejercicios. Hace tiempo que uso github, pero nunca me metí demasiado
 
-Muchas gracias
+Muchas gracias!!
 
-Pablo Alonso Castillo
+Pablo José Carlos Alonso Castillo
 
 Incluso mejor que las charlas!
 
