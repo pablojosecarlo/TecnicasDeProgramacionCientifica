@@ -1,0 +1,42 @@
+COMPILACIONES
+
+\array1.c
+gcc.exe   -c C:\Users\palon\OneDrive\Desktop\TecnicasDeProgramacionCientifica\ejercicios_c\array1.c -o C:\Users\palon\OneDrive\Desktop\TecnicasDeProgramacionCientifica\ejercicios_c\array1.o
+gcc.exe  -o C:\Users\palon\OneDrive\Desktop\TecnicasDeProgramacionCientifica\ejercicios_c\array1.exe C:\Users\palon\OneDrive\Desktop\TecnicasDeProgramacionCientifica\ejercicios_c\array1.o   
+Process terminated with status 0 (0 minute(s), 1 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 1 second(s))
+ 
+
+\array2.c 
+gcc.exe   -c C:\Users\palon\OneDrive\Desktop\TecnicasDeProgramacionCientifica\ejercicios_c\array2.c -o C:\Users\palon\OneDrive\Desktop\TecnicasDeProgramacionCientifica\ejercicios_c\array2.o
+gcc.exe  -o C:\Users\palon\OneDrive\Desktop\TecnicasDeProgramacionCientifica\ejercicios_c\array2.exe C:\Users\palon\OneDrive\Desktop\TecnicasDeProgramacionCientifica\ejercicios_c\array2.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+
+\calculator.c 
+gcc.exe   -c C:\Users\palon\OneDrive\Desktop\TecnicasDeProgramacionCientifica\ejercicios_c\calculator.c -o C:\Users\palon\OneDrive\Desktop\TecnicasDeProgramacionCientifica\ejercicios_c\calculator.o
+gcc.exe  -o C:\Users\palon\OneDrive\Desktop\TecnicasDeProgramacionCientifica\ejercicios_c\calculator.exe C:\Users\palon\OneDrive\Desktop\TecnicasDeProgramacionCientifica\ejercicios_c\calculator.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+
+
+\porref.c 
+gcc.exe   -c C:\Users\palon\OneDrive\Desktop\TecnicasDeProgramacionCientifica\ejercicios_c\porref.c -o C:\Users\palon\OneDrive\Desktop\TecnicasDeProgramacionCientifica\ejercicios_c\porref.o
+gcc.exe  -o C:\Users\palon\OneDrive\Desktop\TecnicasDeProgramacionCientifica\ejercicios_c\porref.exe C:\Users\palon\OneDrive\Desktop\TecnicasDeProgramacionCientifica\ejercicios_c\porref.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+ 
+
+\porvalor.c 
+gcc.exe   -c C:\Users\palon\OneDrive\Desktop\TecnicasDeProgramacionCientifica\ejercicios_c\porvalor.c -o C:\Users\palon\OneDrive\Desktop\TecnicasDeProgramacionCientifica\ejercicios_c\porvalor.o
+gcc.exe  -o C:\Users\palon\OneDrive\Desktop\TecnicasDeProgramacionCientifica\ejercicios_c\porvalor.exe C:\Users\palon\OneDrive\Desktop\TecnicasDeProgramacionCientifica\ejercicios_c\porvalor.o   
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+ 
+
+\punteros.c 
+gcc.exe   -c C:\Users\palon\OneDrive\Desktop\TecnicasDeProgramacionCientifica\ejercicios_c\punteros.c -o C:\Users\palon\OneDrive\Desktop\TecnicasDeProgramacionCientifica\ejercicios_c\punteros.o
+gcc.exe  -o C:\Users\palon\OneDrive\Desktop\TecnicasDeProgramacionCientifica\ejercicios_c\punteros.exe C:\Users\palon\OneDrive\Desktop\TecnicasDeProgramacionCientifica\ejercicios_c\punteros.o   
+Process terminated with status 0 (0 minute(s), 1 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 1 second(s))
+ 
